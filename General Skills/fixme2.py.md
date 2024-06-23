@@ -2,6 +2,8 @@
 `100points`
 
 # Description #
+Fix the syntax error in the Python script to print the flag.
+Download Python script
 
 # Tiếp cận #
 Sửa lại đoạn code như sau ta được flag
