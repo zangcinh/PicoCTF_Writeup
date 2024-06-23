@@ -18,3 +18,4 @@ Có một vài điểm trong code ban đầu mà cần được điều chỉnh 
 
     Sau khi giải mã được flag_enc sử dụng str_xor và key là 'enkidu', chúng ta cần in ra kết quả dưới dạng một chuỗi văn bản thông thường, chứ không phải in ra từng phần tử trong danh sách flag_enc.
 Code đã sửa lại như sau
+![image](https://github.com/zangcinh/PicoCTF_Writeup/assets/173159694/4c7fb7c8-1dda-4677-bbcc-946cadffd3e1)
